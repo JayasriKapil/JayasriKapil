@@ -28,7 +28,7 @@ jobs:
         with:
           github_user_name: JayasriKapil
           outputs: |
-            dist/github-contribution-grid-snake.gif?color_snake=#FF69B4&color_dots=#0D1117,#2D1B3D,#C86DD7,#FF69B4,#FF1493&color_background=#000000
+            dist/github-contribution-grid-snake.gif?color_snake=%23FF69B4&color_dots=%230D1117,%232D1B3D,%23C86DD7,%23FF69B4,%23FF1493&color_background=%23000000
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
