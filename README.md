@@ -80,7 +80,7 @@
   
   <img
     alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/JayasriKapil/JayasriKapil/output/github-contribution-grid-snake.gif"
+    src="https://raw.githubusercontent.com/JayasriKapil/JayasriKapil/output/github-contribution-grid-snake.svg"
   />
   
   <br />
