@@ -72,7 +72,7 @@
   <h3>🏆 Trophies</h3>
   <p>
     <a href="https://github.com/JayasriKapil">
-      <img src="https://github-profile-trophy.vercel.app/?username=JayasriKapil&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+      <img src="https://github-profile-trophy-beryl-three.vercel.app/?username=JayasriKapil&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
     </a>
   </p>
 
