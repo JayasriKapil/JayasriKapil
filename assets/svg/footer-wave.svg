@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320" width="100%" height="100%">
+  <defs>
+    <!-- Wave Path 1 (Back, Slowest) -->
+    <path id="w1" d="M0,256L48,245.3C96,235,192,213,288,213.3C384,213,480,235,576,234.7C672,235,768,213,864,208C960,203,1056,213,1152,218.7C1248,224,1344,224,1392,224L1440,224L1440,320L0,320Z"></path>
+    <!-- Wave Path 2 (Middle, Medium) -->
+    <path id="w2" d="M0,288L48,272C96,256,192,224,288,218.7C384,213,480,235,576,245.3C672,256,768,256,864,250.7C960,245,1056,235,1152,240C1248,245,1344,267,1392,277.3L1440,288L1440,320L0,320Z"></path>
+    <!-- Wave Path 3 (Front, Fastest) -->
+    <path id="w3" d="M0,192L48,208C96,224,192,256,288,256C384,256,480,224,576,213.3C672,203,768,213,864,229.3C960,245,1056,267,1152,261.3C1248,256,1344,224,1392,208L1440,192L1440,320L0,320Z"></path>
+  </defs>
+
+  <!-- Back Wave (#f5e6ff) -->
+  <g fill="#f5e6ff" fill-opacity="1">
+    <use href="#w1" x="0" y="0"></use>
+    <use href="#w1" x="1440" y="0"></use>
+    <!-- Native SVG animation (Guarantees GitHub compatibility over CSS) -->
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-1440 0" dur="25s" repeatCount="indefinite" />
+  </g>
+
+  <!-- Middle Wave (#ffb3e6) -->
+  <g fill="#ffb3e6" fill-opacity="0.8">
+    <use href="#w2" x="0" y="0"></use>
+    <use href="#w2" x="1440" y="0"></use>
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-1440 0" dur="20s" repeatCount="indefinite" />
+  </g>
+
+  <!-- Front Wave (#FF69B4) -->
+  <g fill="#FF69B4" fill-opacity="0.4">
+    <use href="#w3" x="0" y="0"></use>
+    <use href="#w3" x="1440" y="0"></use>
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-1440 0" dur="15s" repeatCount="indefinite" />
+  </g>
+</svg>
