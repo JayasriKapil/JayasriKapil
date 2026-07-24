@@ -35,8 +35,8 @@
           <i>"Engineering intelligence where hardware meets software."</i>
         </p>
       </td>
-      <td width="40%" align="center" style="padding: 15px 20px;">
-        <img src="./assets/images/about-me.png" width="85%" alt="About Me Illustration" style="border-radius: 16px;" />
+      <td width="40%" align="center" valign="middle" style="padding: 15px 20px;">
+        <img src="./assets/images/about-me.png" width="60%" alt="About Me Illustration" style="border-radius: 16px;" />
       </td>
     </tr>
   </table>
