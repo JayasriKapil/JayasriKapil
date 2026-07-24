@@ -22,7 +22,7 @@
 <div align="center">
   <table width="100%" style="border-collapse: collapse; border: none;">
     <tr>
-      <td width="55%" valign="top" style="padding: 30px 40px;">
+      <td width="60%" valign="top" style="padding: 15px 25px;">
         <ul>
           <li>💻 <b>B.E. Electronics & Communication Engineering</b> student passionate about <b>Embedded Systems, Artificial Intelligence, Full-Stack Development, and Software Engineering.</b></li>
           <li>🌱 Currently building intelligent systems that combine hardware and software while continuously expanding my knowledge in AI, Embedded Systems, Automation, and System Design.</li>
@@ -31,13 +31,12 @@
           <li>🌌 Passionate about AI, Embedded Systems, Full Stack Apps, and building things that matter.</li>
           <li>✨ Always chasing the next idea worth building.</li>
         </ul>
-        <br />
         <p align="center">
           <i>"Engineering intelligence where hardware meets software."</i>
         </p>
       </td>
-      <td width="45%" align="center" style="padding: 30px 20px;">
-        <img src="./assets/images/about-me.png" width="100%" alt="About Me Illustration" style="border-radius: 16px;" />
+      <td width="40%" align="center" style="padding: 15px 20px;">
+        <img src="./assets/images/about-me.png" width="85%" alt="About Me Illustration" style="border-radius: 16px;" />
       </td>
     </tr>
   </table>
